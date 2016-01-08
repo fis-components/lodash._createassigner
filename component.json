@@ -9,5 +9,5 @@
         "lodash._isiterateecall": "^3.0.0"
     },
     "main": "index.js",
-    "version": "3.0.0"
+    "version": "3.0.1"
 }
