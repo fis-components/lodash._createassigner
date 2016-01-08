@@ -1,7 +1,7 @@
 {
     "name": "lodash._createassigner",
     "description": "The modern build of lodash’s internal `createAssigner` as a module.",
-    "repos": "https://github.com/lodash/lodash",
+    "repos": "https://github.com/lodash/lodash.git",
     "tag": "master",
     "reposType": "npm",
     "dependencies": {
@@ -10,5 +10,5 @@
         "lodash.restparam": "^3.0.0"
     },
     "main": "index.js",
-    "version": "3.1.0"
+    "version": "3.1.1"
 }
